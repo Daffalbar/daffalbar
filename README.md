@@ -1,10 +1,3 @@
-<!-- HEADER FUTURISTIK -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=250&section=header" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer**, and future **AIoT Engineer**.   Currently exploring the power of **automation**, **AI**, and **IoT** to solve real-world problems—especially in **agriculture & smart farming**. 🌱🐓
 
@@ -33,13 +26,6 @@ Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer*
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daffadev&repo=wp-freelance-starter&theme=radical" />
 </p>
 
-<!-- atau pakai list style -->
-<!--
-- 🚜 **Indoor Farming Controller**: An AIoT-based system to automate plant growth using ESP32
-- 🌐 **WordPress Starter Kit**: Full Elementor + WooCommerce build for instant deployment
-- 🤖 **Telegram Expense Tracker**: Personal finance bot using Python + Google Sheets
--->
-
 ---
 
 ## 📊 GitHub Stats
@@ -57,11 +43,4 @@ Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer*
   <a href="mailto:daffa@example.com"><img src="https://img.shields.io/badge/Email-Daffa-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daffadev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/daffadev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=150&section=footer"/>
 </p>
