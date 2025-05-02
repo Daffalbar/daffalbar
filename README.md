@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer**, and future **AIoT Engineer**.   Currently exploring the power of **automation**, **AI**, and **IoT** to solve real-world problems—especially in **agriculture & smart farming**. 🌱🐓
+Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer**, and **AIoT Engineer**.   Currently exploring the power of **automation**, **AI**, and **IoT** to solve real-world problems—especially in **agriculture & smart farming**. 🌱🐓
 
 ---
 
@@ -13,7 +13,6 @@ Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer*
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/YoastSEO-8B43C1?style=for-the-badge&logo=yoast&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA580C?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 </p>
 
 ---
@@ -22,17 +21,19 @@ Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer*
 
 <!-- Card style (aktifkan ini jika kamu lebih suka card) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daffadev&repo=smart-farming-aiot&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daffadev&repo=wp-freelance-starter&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daffalbar&repo=remote-3server-using-ansible&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daffalbar&repo=Telegram-Expense-Tracker-Bot&theme=tokyonight"/>
+  
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffadev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00fff7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffadev&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daffalbar&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00fff7" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalbar&theme=tokyonight&hide_border=true" width="44%" />
 </p>
 
 ---
@@ -40,7 +41,7 @@ Hi there! I’m **Daffa**, a passionate **No-Code Developer**, **UI/UX Designer*
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:daffa@example.com"><img src="https://img.shields.io/badge/Email-Daffa-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/daffadev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/daffadev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:mdaffaauliaalbar@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daffalbar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/daf_albar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
